@@ -1,2 +1,2 @@
 # parserCellar
-parser of competitors. Cellar
+parser of competitors. Cellar (v1)
