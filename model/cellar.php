@@ -68,7 +68,7 @@ class Cellar
      * Cellar constructor.
      */
     public function __construct()
-    {;
+    {
     }
 
     public function toString(){
